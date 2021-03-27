@@ -1,7 +1,7 @@
 
 #gamearea {
   /* background: rgb(145, 140, 140); */
-  background-image:  url("../img/gamebg.png");
+  background-image:  url("gamebg.png");
   background-size: cover;
   background-repeat: no-repeat;
   width:  90%;
