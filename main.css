@@ -1,0 +1,44 @@
+
+#gamearea {
+  /* background: rgb(145, 140, 140); */
+  background-image:  url("../img/gamebg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width:  90%;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
+  height: 80%;
+  padding: 2%;
+}
+
+#arrow {
+    position: absolute;
+    width: 8%;
+}
+
+#balloon1{
+    width: 7%;
+position: absolute;
+left: 80%;
+}
+
+#balloon2{
+    width: 4%;
+position: absolute;
+left: 65%;
+}
+
+#balloon3{
+    width: 10%;
+position: absolute;
+left: 70%;
+}
+
+h2 {
+    float: right;
+    color: rgb(0, 0, 0);
+    margin: 20px 74px 0px;
+    padding: 0px 30px 0px 30px;
+}
+
